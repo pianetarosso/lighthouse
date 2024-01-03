@@ -1,0 +1,8 @@
+﻿Nome,Quantità,Componente
+"Umain",1," ATtiny"
+"T1, T2, T3",3," Transistor NPN (BJT)"
+"D1, D3, D5, D4, D6, D2",6,"Bianco LED"
+"Bat1",1,"4 batterie, AA, no Batteria da 1,5 V"
+"R3, R2, R4",3,"4.58 kΩ Resistenza"
+"R1",1,"110 Ω Resistenza"
+"Rpot2",1,"10 kΩ Potenziometro"
